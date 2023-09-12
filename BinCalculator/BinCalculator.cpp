@@ -1,6 +1,5 @@
 //Binary Calculator Copyright (C) 2019 David Badiei
 #include <iostream>
-#include <windows.h>
 #include <string.h>
 #include <cmath>
 
